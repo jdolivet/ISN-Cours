@@ -4,7 +4,7 @@ Created on 03-20-2019
 @author: Johann Dolivet
 
 Marche aléatoire
-Ce programme précise de l'import de modules built-in
+Ce programme nécessite l'import de modules built-in
 """
 
 from turtle import *
