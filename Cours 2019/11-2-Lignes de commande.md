@@ -89,3 +89,7 @@ traceroute to www.cnil.fr (46.18.194.181), 30 hops max, 60 byte packets
 18  ds-198-145.dri-services.net (46.18.198.145)  223.167 ms *  228.464 ms
 
 ```
+
+On peut alors déterminer le chemin parcouru.
+
+![traceroute wwww.cnil.fr](https://jdolivet.github.io/ISN-Cours/Cours%202019/11-3-Traceroute%20visualisation.png)
