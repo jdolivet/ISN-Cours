@@ -1,0 +1,27 @@
+/* Fichier CSS (Cascading Style Sheets) 
+il contient les instructions de mise en forme 
+il est importé depuis un fichier html. */
+
+body {
+  background-color: whitesmoke
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+  font-size: 2em
+}
+
+p {
+  color: black
+}
+
+footer {
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: right
+}
+
+ul {
+  line-height: 1.5
+}
