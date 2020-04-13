@@ -1,0 +1,3 @@
+Les tests de programme peuvent être utilisés pour montrer la présence de bugs, mais jamais pour montrer leur absence!
+
+Edsger W. Dijkstra

@@ -1,0 +1,57 @@
+ApertureValue: 2.275007
+BrightnessValue: 3.636867
+ColorSpace: 1
+ComponentsConfiguration: 
+DateTime: 2016:03:19 17:24:35
+DateTimeDigitized: 2016:03:19 12:53:42
+DateTimeOriginal: 2016:03:19 12:53:42
+ExifVersion: 48 50 50 49 
+ExposureBiasValue: 0.000000
+ExposureMode: 0
+ExposureProgram: 2
+ExposureTime: 0.033333
+FileCompression: JPEG
+FileFormat: JPEG
+FileImageCount: 1
+Flash: 24
+FlashPixVersion: 48 49 48 48 
+FNumber: 2.200000
+FocalLength: 4.150000
+FocalLengthIn35mmFilm: 29
+GPSAltitude: 779.062256
+GPSAltitudeRef: 0
+GPSDateStamp: 2016:03:19
+GPSDestBearing: 186.616989
+GPSDestBearingRef: T
+GPSImgDirection: 186.616989
+GPSImgDirectionRef: T
+GPSLatitude: 23.000000 35.000000 33.369999 
+GPSLatitudeRef: S
+GPSLongitude: 46.000000 37.000000 49.860001 
+GPSLongitudeRef: W
+GPSSpeed: 0.510000
+GPSSpeedRef: K
+GPSTimeStamp: 15.000000 53.000000 41.730000 
+History: LoadImage{filename=".../ISN/Images/Image/Image.jpg", index=-1}
+Interlaced: 1
+ISOSpeedRatings: 64
+Make: Apple
+MakerNote: 65 112 112 108 101 32 105 79 83 0 0 1 77 77 0 11 0 1 0 9 0 0 0 1 0 0 0 4 0 2 0 7 0 0 2 46 0 0 0 152 0 3 0 7 0 0 0 104 0 0 2 198 0 4 0 9 0 0 0 1 0 0 0 1 0 5 0 9 0 0 0 1 0 ...
+MeteringMode: 5
+Model: iPhone 5s
+Orientation: 1
+PixelXDimension: 446
+PixelYDimension: 595
+ResolutionUnit: DPI
+SceneCaptureType: 0
+SceneType: 1
+SensingMethod: 2
+ShutterSpeedValue: 4.907122
+Software: GIMP 2.8.10
+SubjectArea: 1631 1223 1795 1077 
+SubSecTimeDigitized: 363
+SubSecTimeOriginal: 363
+WhiteBalance: 0
+XResolution: 72.000000
+YCbCrPositioning: 1
+YResolution: 72.000000

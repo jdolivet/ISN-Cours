@@ -1,0 +1,2 @@
+Testen toont wel de aanwezigheid aan van fouten, maar niet de afwezigheid!
+Edsger Dijkstra
