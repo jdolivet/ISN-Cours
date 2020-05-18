@@ -1,0 +1,38 @@
+Algorithme de multiplication
+
+___________________________________________________________
+Cas 1
+
+Entrées : Deux nombres entiers naturels a et b
+Sortie : Le produit a * b
+
+x ← a 
+y ← b 
+z ← 0
+Tant que y ≠ 0 faire
+    z ← z + x
+    y ← y − 1
+résultat z
+
+___________________
+Terminaison
+
+L'entier y étant décrémenté de 1 à chaque itération, il deviendra nécessairement nul au bout de b itérations.
+
+___________________
+Validité
+
+Démonstration :
+* C'est trivialement vrai avant la boucle.
+* Supposons que z+x*y est égal à a*b au début de l'itération, montrons que cette propriété reste vraie à la fin de chaque itération. 
+ Pour cela nous noterons x', y' et z' les valeurs respectives de x, y et z à la fin d'une itération. 
+ Ces valeurs deviendront les nouvelles valeurs de x, y et z pour l'itération suivante.
+ On a :
+         x' = x, y' = y − 1 et z' = z + x
+ Donc,
+         z' + x' * y' = z + x + x * (y - 1)
+                      = z + x * y
+                      = a * b         (par hypothèse)
+
+___________________________________________________________
+

@@ -1,0 +1,47 @@
+Algorithme de multiplication
+
+___________________________________________________________
+Cas 2
+
+Entrées : Deux nombres entiers naturels a et b
+Sortie : Le produit a * b
+
+x ← a 
+y ← b 
+z ← 0
+Tant que y ≠ 0 faire
+    Si y impair alors z ← z + x
+    x ← 2 * x
+    y ← y div 2
+résultat z
+
+___________________
+Terminaison
+
+L'entier y étant divisé par 2 à chaque itération, il deviendra nécessairement nul après un nombre fini d'itérations.
+
+___________________
+Validité
+
+Démonstration :
+* C'est trivialement vrai avant la boucle.
+* Supposons que z+x*y est égal à a*b au début de l'itération, montrons que cette propriété reste vraie à la fin de chaque itération. 
+  Pour cela nous noterons x', y' et z' les valeurs respectives de x, y et z à la fin d'une itération. 
+  Ces valeurs deviendront les nouvelles valeurs de x, y et z pour l'itération suivante.
+  Deux cas sont à envisager :
+    * y pair
+            x' = 2 * x, y' = y / 2 et z' = z
+    Donc,
+                     z' + x' * y' = z + (2 * x) * (y / 2)
+                                  = z + x * y
+                                  = a * b         (par hypothèse)
+    * y impair
+            x' = 2 * x, y' = (y - 1) / 2 et z' = z + x
+    Donc,
+                     z' + x' * y' = (z + x) + (2 * x) * ((y - 1) / 2)
+                                  = z + x + x * (y - 1)
+                                  = z + x * y
+                                  = a * b         (par hypothèse)
+
+___________________________________________________________
+
