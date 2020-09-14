@@ -1,0 +1,2208 @@
+<!DOCTYPE html><html xmlns="https://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr" xmlns:og="http://ogp.me/ns#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    
+    
+    
+    
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+
+    	
+	
+																			
+	
+    
+    
+				
+	<title>Inria, l'institut national de recherche dédié aux sciences du numérique</title>
+
+    
+				
+            <meta name="description" content="Inria, l'institut national de recherche dédié aux sciences du numérique, promeut l'excellence scientifique et le transfert pour avoir le plus grand impact." />
+    
+    
+            	
+    
+	
+	
+	<meta name="author" content="Inria" />
+
+	
+
+	
+	<meta property="og:locale" content="fre-FR" />
+
+	
+	<meta property="og:title" content="Inria, l'institut national de recherche dédié aux sciences du numérique" />
+	<meta name="twitter:title" content="Inria, l'institut national de recherche dédié aux sciences du numérique" />
+
+	
+	<meta name="twitter:description" content="Inria, l'institut national de recherche dédié aux sciences du numérique, promeut l'excellence scientifique et le transfert pour avoir le plus grand impact.">
+	<meta property="og:description" content="Inria, l'institut national de recherche dédié aux sciences du numérique, promeut l'excellence scientifique et le transfert pour avoir le plus grand impact." />
+
+	
+	<meta name="twitter:site" content="https://www.inria.fr">
+	<meta property="og:site_name" content="Inria" />
+	<meta property="og:url" content="https://www.inria.fr" />
+
+	
+
+					<meta name="twitter:image:src" content="/extension/site_inria/design/site_inria/images/fullscreen/img-chapo-defaut_large.jpg">
+		<meta property="og:image" content="/extension/site_inria/design/site_inria/images/fullscreen/img-chapo-defaut_large.jpg" />
+			
+	
+			<meta name="twitter:card" content="summary">
+	
+	
+			<meta property="og:type" content="website" />
+	
+	
+
+			
+<link rel="Home" href="/" title="Page de garde Inria" />
+<link rel="Index" href="/" />
+
+<link rel="Search" href="/content/advancedsearch" title="Recherche Inria" />
+<link rel="Shortcut icon" href="/extension/site_inria/design/site_inria/images/favicon.ico" type="image/x-icon" />	
+	
+    
+            
+        <link rel="stylesheet" type="text/css" href="/var/inria/cache/public/stylesheets/413e8485103c8619d2c477dcb646485e_1547740506_screen.css" media="screen" />
+
+        <link rel="stylesheet" type="text/css" href="/var/inria/cache/public/stylesheets/01bd5442ab0488d303bba17ae91648a0_1547740506_only screen and (max-width:900px).css" media="only screen and (max-width:900px)" />
+
+        <link rel="stylesheet" type="text/css" href="/var/inria/cache/public/stylesheets/e6690975142d4498c6d652720fde0cb5_1547740506_only screen and (max-width:750px).css" media="only screen and (max-width:750px)" />
+
+        <link rel="stylesheet" type="text/css" href="/var/inria/cache/public/stylesheets/6747e8d826527481a2b1765a8a8ee1ad_1543996672_print.css" media="print" />
+
+        <link rel="stylesheet" type="text/css" href="/var/inria/cache/public/stylesheets/d946c89a3e38c213f2603be1ba0721f1_1543996672_all.css" />
+
+
+        
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/helpers.js" ></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/mootools-1.2.6-core.js" ></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/mootools-1.2.4.4-more.js" ></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/mootools-1.2.4.4-more-native-uri-string.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/libraries/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript">$.noConflict();</script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/libraries/jquery.flexslider-min.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/script_jquery.js" ></script>
+
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/inriamenu.js" ></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/script.js" ></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/script_epi.js" ></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/swfobject.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/Autocompleter.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/Autocompleter.Local.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/Autocompleter.Request.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/Observer.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/mr_ted.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/anti_spam.js"></script>
+        <script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/jquery.cookiebar.min.js"></script>
+
+        
+                    <script type="text/javascript" >
+                window.CookiebarSettings = {                    acceptOnContinue: 1,
+                    expireDays: 182,
+                    policyButton: 1,
+                    policyText: "En savoir plus",
+                    policyURL: "https://www.inria.fr/informations-pratiques/mentions-legales",
+                    acceptButton: 0,
+                    acceptText: "OK",
+                    message: "En poursuivant votre navigation sur ce site vous acceptez l'utilisation des cookies pour vous proposer des contenus et services adaptés à vos centres d'intérêts.",
+                    fixed: 0,
+                    autoEnable: true,
+                    acceptOnContinue: true,
+                    forceShow: false
+                    };
+            </script>
+                        <script src="https://www.mediego.com/tracker.js"></script>
+    
+    
+
+    
+    
+    
+                    
+                                
+    
+            
+                <link rel="alternate" type="application/rss+xml" title="Actualité - Tous les événements" href="/actualite/agenda/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Bordeaux - Actualités" href="/centre/bordeaux/actualites/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Bordeaux - Agenda" href="/centre/bordeaux/agenda/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Grenoble - Actualités" href="/centre/grenoble/actualites/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Grenoble - Agenda" href="/centre/grenoble/agenda/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Lille - Actualités" href="/centre/lille/actualites/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Lille - Agenda" href="/centre/lille/agenda/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Nancy - Actualités" href="/centre/nancy/actualites/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Nancy - Agenda" href="/centre/nancy/agenda/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Rennes - Actualités" href="/centre/rennes/actualites/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Rennes - Agenda" href="/centre/rennes/agenda/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Saclay - Actualités" href="/centre/saclay/actualites/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Saclay - Agenda" href="/centre/saclay/agenda/(view_mode)/rss" />
+            <link rel="alternate" type="application/rss+xml" title="Sophia - Actualités" href="/centre/sophia/actualites/(view_mode)/rss" />
+            
+    <!--[if IE]>
+    <link href=/"/extension/site_inria/design/site_inria/stylesheets/styles_ie.css" rel="stylesheet" type="text/css"  media="screen" />
+    <![endif]-->
+
+
+    
+    
+</head>
+<body>
+<div id="surtop">
+
+
+    
+        <div id="surtop-center">
+        <p style="background:url('/var/inria/storage/images/liens-externes/logo-sites-inria/898745-1-fre-FR/logo-sites-inria_reference.png') no-repeat bottom right;">Sites Inria</p>
+        <ul>
+                                                    
+                <li>
+                    <span class="bullet" style="background:#E23525;"></span>
+                                            <strong title="inria.fr">
+                            Institut
+                        </strong>
+                                    </li>
+                
+                            
+                <li>
+                    <span class="bullet" style="background:#1b7abc;"></span>
+                    
+                        <a title="interstices.info, revue en ligne de culture scientifque"
+                            href="https://interstices.info/"
+                            class="ga_stats_menu"
+                                                            rel="external"
+                                                    >
+                            Culture scientifique
+                        </a>
+                                    </li>
+                
+                            
+                <li>
+                    <span class="bullet" style="background:#5C5D70;"></span>
+                    
+                        <a title="inria-alumni.fr, experts issus d'Inria "
+                            href="https://inria-alumni.fr"
+                            class="ga_stats_menu"
+                                                    >
+                            Alumni
+                        </a>
+                                    </li>
+                
+                            
+                <li>
+                    <span class="bullet" style="background:#fa8623;"></span>
+                    
+                        <a title=""
+                            href="https://intranet.inria.fr/"
+                            class="ga_stats_menu"
+                                                            rel="external"
+                                                    >
+                            Intranet
+                        </a>
+                                    </li>
+                
+                                </ul>
+
+        
+        <select onchange="javascript:location.href = this.value;">
+            <option selected="selected">Sites Inria</option>
+                            <option value="">
+                                    Institut
+                                </option>
+                            <option value="https://interstices.info/">
+                                    Culture scientifique
+                                </option>
+                            <option value="https://inria-alumni.fr">
+                                    Alumni
+                                </option>
+                            <option value="https://intranet.inria.fr/">
+                                    Intranet
+                                </option>
+                    </select>
+
+        
+        
+        
+                
+                                                                                                        
+                                            
+                                                        <a title="English version" class="language"
+                                    href="https://www.inria.fr/en/"
+                                    ><img lang="en" src="/extension/site_inria/design/site_inria/images/pictos/picto_lang_en.png" alt="English version" /></a>
+                                                    
+                                        
+                                                                
+        
+    </div>
+
+</div>
+
+<div id="page"  >
+
+    
+    <div id="header">
+
+	
+		<!--  logo et acces par profil  -->
+		<div class="identite">
+			<p class="logo">
+				<a href="/">
+											<img src="/extension/site_inria/design/site_inria/images/logos/logo_INRIA_FR.svg" alt="Inria" />
+									</a>
+			</p>
+
+			
+			<ul class="Inria-Homepage-pictos">
+																												<li>
+								<a href="https://twitter.com/inria" target="_blank">
+									<object data="/extension/site_inria/design/site_inria/images/social_networks/footer_twitter.svg" type="image/svg+xml"></object>
+								</a>
+							</li>
+																																							<li>
+								<a href="https://fr.linkedin.com/company/inria" target="_blank">
+									<object data="/extension/site_inria/design/site_inria/images/social_networks/footer_linkedin.svg" type="image/svg+xml"></object>
+								</a>
+							</li>
+																																							<li>
+								<a href="https://www.facebook.com/Inria.fr" target="_blank">
+									<object data="/extension/site_inria/design/site_inria/images/social_networks/footer_facebook.svg" type="image/svg+xml"></object>
+								</a>
+							</li>
+																		</ul>
+
+			<ul class="profils">
+			 
+				
+				<li style="display:none;">
+					
+					<a class="open_menu ga_stats_menu" href="#menu7"></a>
+				</li>
+
+
+				<li style="display:none;">
+					
+					<a class="open_menu ga_stats_menu" href="#menu8"></a>
+				</li>
+
+
+
+								    				    					    						    										    <li>
+							    	<a href="/institut/carrieres-metiers">Candidats</a>
+							    </li>
+																										    				    					    						    										    <li>
+							    	<a href="/actualite/mediacenter">Journalistes</a>
+							    </li>
+																										    				    					    						    										    <li>
+							    	<a href="/innovation/recherche-partenariale-transfert/au-service-de-la-recherche-de-l-industrie-et-de-la-societe">Entrepreneurs</a>
+							    </li>
+																										    				    					    						    										    <li>
+							    	<a href="/recherches/domaines-de-recherche">Scientifiques</a>
+							    </li>
+																						
+																																																																					<li><a href="/contact2/nous-contacter">Nous contacter</a></li>
+									
+			</ul>
+		</div>
+
+		<!--  menu principal  -->
+		<div id="menu" class="menu">
+		
+			<!--  barre de navigation  -->
+			
+			
+			<div class="bar_nav">
+
+				<p id="navigation" class="nav">
+					                        <a class="open_menu ga_stats_menu" href="#menu1">Inria</a>
+                        <a class="open_menu ga_stats_menu" href="#menu2">Recherche</a>
+                        <a class="open_menu ga_stats_menu" href="#menu3">Innovation</a>
+                        <a class="open_menu ga_stats_menu" href="#menu4">En région</a>
+                        <a class="open_menu ga_stats_menu" href="#menu5">Europe & International</a>
+                        <a id="main_menu6" href="/actualite/agenda">Agenda</a>
+									</p>
+				<a href="#search" class="btn_search"></a>
+
+			</div>
+
+		    <form method="post" action="/content/action" id="search">
+		    	<a class="btn_search_close" href="#">✕</a>
+                <p class="inline">
+                    <label for="search_form" class="horschamp">Rechercher</label>
+                    <input class="text" id="search_form" type="text" placeholder="Rechercher" value="Rechercher"  name="SearchText" onfocus="if(value=='Rechercher') this.value=''" />
+                    <input class="submit" type="submit" alt="Lancer la recherche" value=""/>
+                    <input type="hidden" name="main_search" value="1" />
+                    <input type="hidden" name="ContentObjectID" value="2" />
+                </p>
+            </form>
+			
+			<div class="bloc_menu">
+				
+				 
+
+<div id="menu1" class="ss_menu">
+	<div class="col">
+		<ul>
+				
+		
+			
+		
+					                    <li class="rubrique">
+                        <a href="/institut/inria-en-bref"><span>Inria en bref</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/institut/organisation"><span>Organisation</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/institut/strategie"><span>Stratégie</span></a>
+                    </li>
+                                    						</ul>
+            </div>
+            <div class="col">
+               <ul>
+                                    <li class="rubrique">
+                        <a href="/institut/partenariats"><span>Partenariats</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/institut/carrieres-metiers"><span>Carrières &amp; métiers</span></a>
+                    </li>
+                                    				</ul>
+	</div>
+	
+	
+	
+			<div class="col">
+			
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/une-nouvelle-ere-pour-le-centre-inria-chile">        <img src="/var/inria/storage/images/medias/actualites/generales/images-chapo/nayat-sanchez-2018-chapo/1872843-1-fre-FR/nayat-sanchez-2018-chapo_vignette_resume.jpg" width="110" height="83"  alt="Nayat Sanchez-Pi" title="Nayat Sanchez-Pi" />
+        </a>    
+    
+    
+                        </span>
+
+					<span class="legende">
+									
+Nayat Sanchez-Pi, directrice d'Inria Chile					
+											- 
+													
+									<cite>&copy; Inria</cite>
+							</span>
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Inria Chile</p>
+				<h3>
+			<a href="/actualite/actualites-inria/une-nouvelle-ere-pour-le-centre-inria-chile" >
+									Une nouvelle ère pour le centre Inria Chile
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">Dcom (*) -</span>
+						
+			<span class="date">5/03/2019</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Inria Chile poursuit son développement en Amérique du Sud, notamment en développant des partenariats avec des structures d'investissement pour accélérer la création de start-up au Chili. Nommée directrice d'Inria Chile depuis le&nbsp;1<sup>er</sup>&nbsp;septembre 2018, Nayat Sanchez Pi entend poursuivre cette stratégie et mettre en oeuvre un ambitieux projet d'établissement qui comprend l'ouverture à des partenaires français, la revitalisation de la politique de transfert et la mise en place d'un modèle économique pérenne.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/une-nouvelle-ere-pour-le-centre-inria-chile" 
+		 		title="Une nouvelle ère pour le centre Inria Chile">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+				
+				 
+
+<div id="menu2" class="ss_menu">
+	<div class="col">
+		<ul>
+				
+		
+			
+		
+					                    <li class="rubrique">
+                        <a href="/recherches/structures-de-recherche"><span>Structures de recherche</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/recherches/mobilite-internationale"><span>Mobilité internationale</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/recherches/domaines-de-recherche"><span>Domaines de recherche</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/recherches/mediation-scientifique"><span>Médiation scientifique</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/recherches/actualites"><span>Actualités</span></a>
+                    </li>
+                                    						</ul>
+            </div>
+            <div class="col">
+               <ul>
+                                    <li class="rubrique">
+                        <a href="/recherches/agenda"><span>Agenda</span></a>
+                    </li>
+                                    				</ul>
+	</div>
+	
+	
+	
+			<div class="col">
+			
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/entretiens-croises-pour-les-30-ans-du-web">        <img src="/var/inria/storage/images/medias/actualites/generales/images-chapo/illustration-web-chapo/1922305-1-fre-FR/illustration-web-chapo_vignette_resume.jpg" width="110" height="83"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+					<span class="legende">
+								
+									<cite>Sebastien Gabriel via Unsplash</cite>
+							</span>
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">30 ans du Web</p>
+				<h3>
+			<a href="/actualite/actualites-inria/entretiens-croises-pour-les-30-ans-du-web" >
+									Entretiens croisés pour les 30 ans du Web
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">Dcom (*)  -</span>
+						
+			<span class="date">13/03/2019</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Il y a trente ans, le Web répondait aux besoins d'organisation et d'accès à des informations de plus en plus massives. Membre fondateur pour l'Europe du <em>W3C</em>
+, Inria revient sur la naissance du Web en tant qu'outil et sujet de recherche, ainsi que sur les problématiques soulevées encore aujourd'hui.&nbsp;</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/entretiens-croises-pour-les-30-ans-du-web" 
+		 		title="Entretiens croisés pour les 30 ans du Web">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+				
+				 
+
+<div id="menu3" class="ss_menu">
+	<div class="col">
+		<ul>
+				
+		
+			
+		
+					                    <li class="rubrique">
+                        <a href="/innovation/recherche-partenariale-transfert"><span>Recherche partenariale &amp; Transfert</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/innovation/technologies-competences"><span>Technologies &amp; Compétences</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/innovation/comment-travailler-avec-inria"><span>Comment travailler avec Inria</span></a>
+                    </li>
+                                    						</ul>
+            </div>
+            <div class="col">
+               <ul>
+                                    <li class="rubrique">
+                        <a href="/innovation/agenda"><span>Agenda</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/innovation/actualites"><span>Actualités</span></a>
+                    </li>
+                                    				</ul>
+	</div>
+	
+	
+	
+			<div class="col">
+			
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/inria-et-mitacs-renouvellent-leur-partenariat">        <img src="/var/inria/storage/images/medias/actualites/generales/images-chapo/mitacs-logo-colour/1923942-1-fre-FR/mitacs-logo-colour_vignette_resume.jpg" width="110" height="83"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Partenariat</p>
+				<h3>
+			<a href="/actualite/actualites-inria/inria-et-mitacs-renouvellent-leur-partenariat" >
+									Inria et MITACS renouvellent leur partenariat
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">Dcom (*) -</span>
+						
+			<span class="date">14/03/2019</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>L’organisme à but non lucratif canadien <em>MITACS</em>
+ et Inria ont renouvelé leur engagement en faveur des collaborations interculturelles de recherches France-Canada, confirmant un partenariat fructueux amorcé par une première signature en 2014.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/inria-et-mitacs-renouvellent-leur-partenariat" 
+		 		title="Inria et MITACS renouvellent leur partenariat">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+                
+                
+
+<div id="menu4" class="ss_menu">
+
+    
+    
+    <div class="col region">
+        <ul>
+
+                                            <li class="rubrique">
+                    <a href="/centre/siege"><span>Siège</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/bordeaux"><span>Bordeaux</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/grenoble"><span>Grenoble</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/lille"><span>Lille</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/nancy"><span>Nancy</span></a>
+                </li>
+                                                                </ul>
+                </div>
+                <div class="col region">
+                    <ul>
+                                                        <li class="rubrique">
+                    <a href="/centre/paris"><span>Paris</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/rennes"><span>Rennes</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/saclay"><span>Saclay</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/sophia"><span>Sophia</span></a>
+                </li>
+                                                            <li class="rubrique">
+                    <a href="/centre/inria-chile"><span>Inria Chile</span></a>
+                </li>
+                            
+        </ul>
+    </div>
+
+    
+    
+            <div class="col">
+            
+
+	
+
+
+							
+<div class="vue view local">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/centre/saclay/actualites/sanctuary-pour-laisser-une-trace-sur-la-lune">        <img src="/var/inria/storage/images/medias/saclay/actualites-images/sanctuary-260x195/1924772-1-fre-FR/sanctuary-260x195_vignette_resume.png" width="110" height="83"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+					<span class="legende">
+									
+Prototype de disque de 5 cm					
+											- 
+													
+									<cite>&copy; Sanctuary</cite>
+							</span>
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Interdisciplinarité</p>
+				<h3>
+			<a href="/centre/saclay/actualites/sanctuary-pour-laisser-une-trace-sur-la-lune" >
+									Sanctuary : pour laisser une trace sur la Lune 
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">Hugo Leroux (*) -</span>
+						
+			<span class="date">18/03/2019</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Le projet <em>Sanctuary</em>
+, impliquant des scientifiques d’Inria, du CEA et du CNRS, vise à emporter sur la Lune une collection d’œuvres et de connaissances gravées sur des disques de saphir.</p>
+<p>Un témoignage de la culture humaine à l’intention des civilisations futures… et pourquoi pas des extraterrestres&nbsp;!</p>
+<p>Interview croisée de 3 scientifiques investis dans le projet : Emmanuel Pietriga, Roland Lehoucq et Jean-Philippe Uzan.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/centre/saclay/actualites/sanctuary-pour-laisser-une-trace-sur-la-lune" 
+		 		title="Sanctuary : pour laisser une trace sur la Lune ">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+        </div>
+    
+</div>
+
+                
+                 
+
+<div id="menu5" class="ss_menu">
+	<div class="col">
+		<ul>
+				
+		
+			
+		
+					                    <li class="rubrique">
+                        <a href="/europe-international/politique-europeenne-internationale"><span>Politique européenne &amp; internationale</span></a>
+                    </li>
+                                    						</ul>
+            </div>
+            <div class="col">
+               <ul>
+                                    <li class="rubrique">
+                        <a href="/europe-international/espace-europeen-de-la-recherche"><span>Espace européen de la recherche</span></a>
+                    </li>
+                                    			                    <li class="rubrique">
+                        <a href="/europe-international/partenariats-internationaux"><span>Partenariats internationaux</span></a>
+                    </li>
+                                    				</ul>
+	</div>
+	
+	
+	
+			<div class="col">
+			
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/appels-a-projets-sst-et-inria-en-ia">        <img src="/var/inria/storage/images/medias/mediacenter/images-chapo2/sst-et-inria/1922145-1-fre-FR/sst-et-inria_vignette_resume.png" width="110" height="76"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Intelligence artificielle</p>
+				<h3>
+			<a href="/actualite/actualites-inria/appels-a-projets-sst-et-inria-en-ia" >
+									Appels à projets SST et Inria en IA
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">Dcom (*) -</span>
+						
+			<span class="date">21/05/2019</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Le Service pour la science et la technologie de l’ambassade de France en Allemagne (SST) et Inria lancent conjointement deux appels à projets pour soutenir la mobilité et financer l’organisation d’événements.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/appels-a-projets-sst-et-inria-en-ia" 
+		 		title="Appels à projets SST et Inria en IA">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+
+				
+				  
+<div id="menu7" class="ss_menu">
+	
+		
+												<div class="col profil">
+			    <div class="vue libre">
+        
+
+<ul>
+<li><a href="/recherches/actualites" >Actualités scientifiques</a></li>
+<li><a href="/recherches/agenda" title="Agenda scientifique" >Agenda scientifique</a></li>
+<li><a href="/recherches/domaines-de-recherche" title="Domaines de recherche" >Domaines de recherche</a></li>
+<li><a href="/recherches/structures-de-recherche/rechercher-une-equipe" >Rechercher une équipe</a></li>
+<li><a href="/recherches/mobilite-internationale" >Mobilité internationale</a></li>
+<li><a href="/institut/strategie" >Stratégie</a></li>
+<li><a href="/innovation/recherche-partenariale-transfert" >Transfert technologique</a></li>
+<li><a href="/institut/carrieres-metiers" >Recrutement &amp; métiers</a></li>
+
+</ul>
+    </div>
+
+		</div>
+									<div class="col ">
+			
+        
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/le-prix-cnil-inria-a-ete-remis">        <img src="/var/inria/storage/images/medias/actualites/generales/images-chapo/actu-inria-cnil-chapo/1453536-1-fre-FR/actu-inria-cnil-chapo_vignette_resume.jpg" width="110" height="83"  alt="&copy; Inria / Photo H. Raguet " title="&copy; Inria / Photo H. Raguet " />
+        </a>    
+    
+    
+                        </span>
+
+					<span class="legende">
+								
+									<cite>Inria / Photo H. Raguet </cite>
+							</span>
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Distinction</p>
+				<h3>
+			<a href="/actualite/actualites-inria/le-prix-cnil-inria-a-ete-remis" >
+									Le prix CNIL-Inria a été remis
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">DIRCOM (*) -</span>
+						
+			<span class="date">29/01/2018</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>La CNIL et Inria décernent le <em>prix «&nbsp;protection de la vie privée&nbsp;»</em>
+ 2017 à une équipe de recherche européenne.&nbsp;À l’occasion de la&nbsp;11<sup>e</sup>&nbsp; édition de la conférence internationale <em>Computers Privacy and Data Protection</em>
+ (CPDP), Seda GÜRSES, Carmela TRONCOSO et Claudia DIAZ ont été récompensées pour leur article : «&nbsp;<em>Engineering privacy by design reloaded</em>
+&nbsp;».</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/le-prix-cnil-inria-a-ete-remis" 
+		 		title="Le prix CNIL-Inria a été remis">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+            
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/collaboration-entre-software-heritage-et-le-ccsd">        <img src="/var/inria/storage/images/medias/actualites/generales/images-chapo/software-heritage/1527553-1-fre-FR/software-heritage_vignette_resume.jpg" width="110" height="83"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Patrimoine logiciel</p>
+				<h3>
+			<a href="/actualite/actualites-inria/collaboration-entre-software-heritage-et-le-ccsd" >
+									Collaboration Software Heritage - CCSD
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+						
+			<span class="date">22/01/2018</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Le CCSD et <em>Software Heritage</em>
+ ont annoncé leur collaboration dès ce début d'année 2018 : elle permettra l’élargissement du dépôt de données dans HAL aux logiciels et contribuant ainsi à la reconnaissance du travail des développeurs de logiciels de recherche.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/collaboration-entre-software-heritage-et-le-ccsd" 
+		 		title="Collaboration Software Heritage - CCSD">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+    
+		</div>
+									<div class="col ">
+			
+        
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/facebook-ai-research-renforce-son-partenariat-avec-inria">        <img src="/var/inria/storage/images/medias/medias-reference/logos/logo-fair-facebook/1321220-1-fre-FR/logo-fair-facebook_vignette_resume.jpg" width="110" height="73"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Partenariat</p>
+				<h3>
+			<a href="/actualite/actualites-inria/facebook-ai-research-renforce-son-partenariat-avec-inria" >
+									Facebook AI Research renforce son partenariat avec Inria
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+						
+			<span class="date">23/01/2018</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Facebook investit 10 millions d'euros supplémentaires et double l'équipe du <em>Facebook AI Research (FAIR)</em>
+ pour accélérer la recherche sur l'intelligence artificielle en France. Le <em>hub</em>
+ européen de Facebook renforce ainsi son partenariat avec Inria.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/facebook-ai-research-renforce-son-partenariat-avec-inria" 
+		 		title="Facebook AI Research renforce son partenariat avec Inria">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+            
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/gerard-berry-au-conseil-scientifique-de-l-education-nationale">        <img src="/var/inria/storage/images/medias/actualites/scientifiques/gerard-berry-medaille-d-or-cnrs-2014/1056719-4-fre-FR/gerard-berry-medaille-d-or-cnrs-2014_vignette_resume.png" width="110" height="79"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+					<span class="legende">
+								
+									<cite>&copy; Inria / Photo C. Tourniaire</cite>
+							</span>
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Nomination</p>
+				<h3>
+			<a href="/actualite/actualites-inria/gerard-berry-au-conseil-scientifique-de-l-education-nationale" >
+									Gérard Berry au conseil scientifique de l'Éducation nationale
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">A.B. (*) -</span>
+						
+			<span class="date">19/01/2018</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Jean-Michel Blanquer, ministre de l'Éducation nationale, a installé les membres du Conseil scientifique de l'Éducation nationale et a présenté leurs missions, mercredi 10 janvier au ministère de l'Éducation nationale. Parmi eux, Gérard Berry, titulaire de la chaire&nbsp;Algorithmes, machines et langages&nbsp;du Collège de France.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/gerard-berry-au-conseil-scientifique-de-l-education-nationale" 
+		 		title="Gérard Berry au conseil scientifique de l'Éducation nationale">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+    
+		</div>
+			</div>
+
+ 				
+				  
+<div id="menu8" class="ss_menu">
+	
+		
+												<div class="col profil">
+			    <div class="vue libre">
+        
+
+<ul>
+<li><a href="/innovation/actualites" >Actualités Innovation</a></li>
+<li><a href="/innovation/agenda" title="Agenda Innovation" >Agenda Innovation</a></li>
+<li><a href="/institut/partenariats/partenariats-industriels" >Partenariats industriels</a></li>
+<li><a href="/innovation/recherche-partenariale-transfert" >Transfert technologique</a></li>
+
+</ul>
+    </div>
+
+		</div>
+									<div class="col ">
+			
+        
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/facebook-ai-research-renforce-son-partenariat-avec-inria">        <img src="/var/inria/storage/images/medias/medias-reference/logos/logo-fair-facebook/1321220-1-fre-FR/logo-fair-facebook_vignette_resume.jpg" width="110" height="73"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">Partenariat</p>
+				<h3>
+			<a href="/actualite/actualites-inria/facebook-ai-research-renforce-son-partenariat-avec-inria" >
+									Facebook AI Research renforce son partenariat avec Inria
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+						
+			<span class="date">23/01/2018</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p>Facebook investit 10 millions d'euros supplémentaires et double l'équipe du <em>Facebook AI Research (FAIR)</em>
+ pour accélérer la recherche sur l'intelligence artificielle en France. Le <em>hub</em>
+ européen de Facebook renforce ainsi son partenariat avec Inria.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/facebook-ai-research-renforce-son-partenariat-avec-inria" 
+		 		title="Facebook AI Research renforce son partenariat avec Inria">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+    
+		</div>
+									<div class="col ">
+			
+        
+
+	
+
+
+				
+<div class="vue view ">
+			<p class="illustration">
+						
+			
+																	
+	    <span class="visu">
+                            
+
+    
+        
+    
+            <a href="/actualite/actualites-inria/lancement-d-inriasoft-communaute-de-logiciels">        <img src="/var/inria/storage/images/medias/actualites/generales/margery-et-labit-inriasoft/1700697-1-fre-FR/margery-et-labit-inriasoft_vignette_resume.jpg" width="110" height="83"  alt="" title="" />
+        </a>    
+    
+    
+                        </span>
+
+					<span class="legende">
+								
+									<cite>&copy; Inria / Photo N. Lacaux</cite>
+							</span>
+									</p>
+	
+	<div class="intro">
+					<p class="cartouche">InriaSoft</p>
+				<h3>
+			<a href="/actualite/actualites-inria/lancement-d-inriasoft-communaute-de-logiciels" >
+									Lancement d'InriaSoft, communauté de logiciels
+							</a>
+		</h3>
+		
+				
+		<p class="meta">
+							<span class="auteur">Jean-Michel Prima (*) -</span>
+						
+			<span class="date">9/01/2018</span>
+		</p>
+		
+		
+									<div class="desc">
+					
+<p><em>InriaSoft</em>
+ vise à pérenniser le développement de logiciels d'envergure en associant leurs communautés d'utilisateurs au sein de consortiums qui financeront une équipe d'ingénieurs en charge de leur maintenance et évolution. Le siège d'<em>InriaSoft</em>
+ est basé à Rennes, comme l'expliquent Claude Labit, directeur, et David Margery, directeur technique de cette action nationale portée par la <em>Fondation Inria</em>
+.</p>
+				</div>
+						
+		
+		
+		
+		
+				
+		<p class="lien_vue">
+			<a href="/actualite/actualites-inria/lancement-d-inriasoft-communaute-de-logiciels" 
+		 		title="Lancement d'InriaSoft, communauté de logiciels">
+		 				 			Lire la suite
+		 				 	</a>
+		</p>
+	</div>
+</div>
+
+    
+		</div>
+			</div>
+
+ 				
+				<script type="text/javascript">
+					var mainMenus = new Array();
+					mainMenus[0] = 0;
+					mainMenus[1] = 63;
+					mainMenus[2] = 122;
+					mainMenus[3] = 121;
+                    mainMenus[4] = 101996;
+                    mainMenus[5] = 101997;
+                    mainMenus[6] = 184;
+				</script>
+				
+							</div>
+		</div>
+			
+    
+        	    <h1 class="horschamp">Accueil Inria</h1>
+    
+    						
+	
+		
+								
+	
+		
+								
+	
+		
+								
+	
+		
+		
+<div id="visionneuse" class="visionneuse">
+	
+	<ul class="content_visionneuse slides">
+
+				
+			
+									
+			
+															
+			<li class="content_visio">
+				<a href="/actualite/mediacenter/bpifrance-et-inria-annoncent-un-partenariat-pour-accompagner-100-projets-de-startups-numeriques-par-an">
+					
+					
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/visionneuse-home/medias/bpi-inria/1949326-1-fre-FR/bpi-inria_visionneuse.jpg" width="750" height="250"  alt="Accords Inria Bpi" title="Accords Inria Bpi" />
+            
+    
+    
+    					
+
+				</a>
+								<div class="infos  bkgd" id="visio_legend_0">
+				    <a href="/actualite/mediacenter/bpifrance-et-inria-annoncent-un-partenariat-pour-accompagner-100-projets-de-startups-numeriques-par-an">
+	                    						 <span class="surtitre">Startups</span>	                    <strong>Bpifrance et Inria s'associent pour accompagner 100 projets de startups</strong>
+	                </a>
+				</div>
+							</li>
+										
+			
+									
+			
+															
+			<li class="content_visio">
+				<a href="/institut/carrieres-metiers/offres/concours-externes/concours-externes">
+					
+					
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/visionneuse-home/medias/visio-concours-it2019/1946068-1-fre-FR/visio-concours-it2019_visionneuse.png" width="650" height="250"  alt="" title="" />
+            
+    
+    
+    					
+
+				</a>
+								<div class="infos  bkgd" id="visio_legend_1">
+				    <a href="/institut/carrieres-metiers/offres/concours-externes/concours-externes">
+	                    						 <span class="surtitre">Inria recrute</span>	                    <strong>28 postes à pourvoir dans 19 secteurs</strong>
+	                </a>
+				</div>
+							</li>
+										
+			
+									
+			
+															
+			<li class="content_visio">
+				<a href="/actualite/actualites-inria/inria-obtient-le-label-hr-excellence-in-research">
+					
+					
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/visionneuse-home/medias/visio-hrs4r-1/1935318-1-fre-FR/visio-hrs4r-1_visionneuse.jpg" width="647" height="250"  alt="HRS4R" title="HRS4R" />
+            
+    
+    
+    					
+
+				</a>
+								<div class="infos  bkgd" id="visio_legend_2">
+				    <a href="/actualite/actualites-inria/inria-obtient-le-label-hr-excellence-in-research">
+	                    						 <span class="surtitre">HRS4R</span>	                    <strong>Inria obtient le label Human Resources - Excellence in Research</strong>
+	                </a>
+				</div>
+							</li>
+										
+			
+									
+			
+								
+			<li class="content_visio">
+				<a href="/institut/inria-en-bref/rapport-annuel-d-inria">
+					
+					
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/visionneuse-home/medias/rapport-annuel-2018/1924993-1-fre-FR/rapport-annuel-2018_visionneuse.png" width="650" height="250"  alt="Rapport annuel Inria 2018" title="Rapport annuel Inria 2018" />
+            
+    
+    
+    					
+
+				</a>
+								<div class="infos  " id="visio_legend_3">
+				    <a href="/institut/inria-en-bref/rapport-annuel-d-inria">
+	                    						 <span class="surtitre">Rapport annuel 2018</span>	                    <strong>Un an de recherche et d'innovation chez Inria</strong>
+	                </a>
+				</div>
+							</li>
+									</ul>
+
+</div>
+
+
+
+
+
+	
+
+			<div class="bloc actus">
+			<div class="vertical_carrousel">
+			<ul class="slides">
+								<li class="vue view">
+					<div class="intro">
+						<p class="meta">Recrutement</p>
+						<h3><a href="/actualite/actualites-inria/inria-recrute-2-cadres-dirigeants">Inria recrute 2 cadres dirigeants</a></h3>
+					</div>
+				</li>
+								<li class="vue view">
+					<div class="intro">
+						<p class="meta">Partenariats </p>
+						<h3><a href="/actualite/actualites-inria/jean-yves-le-drian-visite-inria-chile">Jean-Yves Le Drian visite Inria Chile</a></h3>
+					</div>
+				</li>
+								<li class="vue view">
+					<div class="intro">
+						<p class="meta">Prix et distinction</p>
+						<h3><a href="/centre/lille/actualites/marielle-simon-laureate-anr-jcjc">Marielle Simon, lauréate ANR JCJC</a></h3>
+					</div>
+				</li>
+								<li class="vue view">
+					<div class="intro">
+						<p class="meta">Machine Learning</p>
+						<h3><a href="/actualite/actualites-inria/inria-au-siggraph-2019">Inria au SIGGRAPH 2019</a></h3>
+					</div>
+				</li>
+							</ul>
+			</div>
+			<!-- <button class="prev"><<</button>
+			<button class="next">>></button> -->
+			<p class="lien_bloc"><a href="/actualite/actualites-inria">Voir toutes les actualités</a></p>
+		</div>
+	
+
+
+
+
+    			
+		
+	
+		
+	
+		
+		
+	
+</div>
+
+<script type="text/javascript">
+
+						currentTabNode[currentTabNode.length] = 2;
+				
+	var ir = new InriaMenu(".open_menu", ".bloc_menu", ".ss_menu", "Fermer");
+</script>
+
+
+    <div id="content" class="home">
+
+        
+        
+        <div id="center"   class="no_right" >
+            
+
+
+	<div class="Inria-Homepage-Baseline">
+<p>Inria, l'institut national de recherche dédié aux sciences du numérique, promeut l'excellence scientifique et le transfert pour avoir le plus grand impact</p>
+</div>
+
+<div class="bando" >
+	
+			
+<div class="Inria-Zone-Home">
+
+    
+                
+    
+                
+    
+                
+    
+    <div class="Inria-Zone-Title Bleu ">
+                    <h2>Découvrir</h2>
+            </div>
+
+
+                
+            
+        <div class="Inria-Zone-Bloc inria-bloc-dispo-3col blanc">
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                
+            <a href="/recherches/domaines-de-recherche" >
+    
+            <h2>Domaines de recherche</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-recherche-bloc/1892664-13-fre-FR/home-recherche-bloc_homepage_bloc_untier.jpg" width="280" height="190"  alt="Chercheurs au tableau &copy; Inria - Photo C. Morel" title="Chercheurs au tableau &copy; Inria - Photo C. Morel" />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                
+            <a href="/innovation/recherche-partenariale-transfert" >
+    
+            <h2>Transfert &amp; Innovation</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-innovation-bloc/1892668-14-fre-FR/home-innovation-bloc_homepage_bloc_untier.jpg" width="280" height="190"  alt="&copy; Inria - Photo C. Morel" title="&copy; Inria - Photo C. Morel" />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                
+            <a href="/institut/carrieres-metiers" >
+    
+            <h2>Carrières &amp; Métiers</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-recrutement-bloc/1892672-3-fre-FR/home-recrutement-bloc_homepage_bloc_untier.jpg" width="280" height="190"  alt="Membres de l'action exploratoire InBio &copy; Inria / Photo C. Morel " title="Membres de l'action exploratoire InBio &copy; Inria / Photo C. Morel " />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+        </div>
+    
+    </div>
+			
+<div class="Inria-Zone-Home">
+
+    
+                
+    
+                
+    
+                
+    
+    <div class="Inria-Zone-Title Bleu ">
+                    <h2>Comprendre</h2>
+            </div>
+
+
+                
+            
+        <div class="Inria-Zone-Bloc inria-bloc-dispo-3col gris">
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                
+            <a href="/institut/strategie/plan-strategique" >
+    
+            <h2>Plan stratégique</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-plan-strat-bloc/1892694-1-fre-FR/home-plan-strat-bloc_homepage_bloc_untier.jpg" width="280" height="190"  alt="" title="" />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                
+            <a href="/institut/strategie" >
+    
+            <h2>Livres blancs</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-ia-bloc/1892702-1-fre-FR/home-ia-bloc_homepage_bloc_untier.jpg" width="280" height="190"  alt="" title="" />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                
+            <a href="/institut/inria-en-bref/rapport-annuel-d-inria" >
+    
+            <h2>Rapport annuel d'activité</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/actualites/generales/images-chapo/ra-2018-chapo/1925575-1-fre-FR/ra-2018-chapo_homepage_bloc_untier.png" width="280" height="190"  alt="" title="" />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+        </div>
+    
+    </div>
+			
+<div class="Inria-Zone-Home">
+
+    
+                
+    
+                
+    
+                
+    
+    <div class="Inria-Zone-Title Bleu ">
+                    <h2>Apprendre</h2>
+            </div>
+
+
+                
+            
+        <div class="Inria-Zone-Bloc inria-bloc-dispo-3col blanc">
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                        
+            <a href="https://interstices.info/?pk_campaign=BlocHPInria" target="_blank">
+    
+            <h2>Culture scientifique</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-interstices-bloc/1892760-5-fre-FR/home-interstices-bloc_homepage_bloc_untier.jpg" width="280" height="190"  alt="Logo interstices - &copy; Inria - Photo C. Morel" title="Logo interstices - &copy; Inria - Photo C. Morel" />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                        
+            <a href="https://learninglab.inria.fr/" target="_blank">
+    
+            <h2>Découvrir Inria Learning Lab</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-mooc-bloc/1892768-5-fre-FR/home-mooc-bloc_homepage_bloc_untier.jpg" width="280" height="190"  alt="Biblioth&egrave;que - &copy; Chuttersnap on Unplash" title="Biblioth&egrave;que - &copy; Chuttersnap on Unplash" />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+                
+                                                                        
+                
+<div class="Inria-Bloc-Homepage homepage_bloc_untier ">
+
+        
+    
+                        
+            <a href="https://www.youtube.com/user/InriaChannel" target="_blank">
+    
+            <h2>Inria en vidéos</h2>
+        <div class="Inria-Bloc-Homepage-img">
+        
+                                
+            
+                            
+    <span class="visu">
+        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/home-colonnes/home-youtube/1892776-8-fre-FR/home-youtube_homepage_bloc_untier.jpg" width="280" height="190"  alt="Inria Channel sur Youtube - &copy; Frank Zhang on Unsplash " title="Inria Channel sur Youtube - &copy; Frank Zhang on Unsplash " />
+            
+    
+    
+        </span>
+
+                                    
+            </div>
+
+            </a>
+    </div>
+            
+        </div>
+    
+    </div>
+	</div>
+
+        </div>
+
+        
+        
+    </div>
+
+    <div class="prefooter">
+            <h2>Suivez Inria</h2>
+        <ul>
+                                                                        <li>
+                        <a href="https://twitter.com/inria" target="_blank">
+                            <object data="/extension/site_inria/design/site_inria/images/social_networks/footer_twitter.svg" type="image/svg+xml"></object>
+                        </a>
+                    </li>
+                                                                                                    <li>
+                        <a href="https://fr.linkedin.com/company/inria" target="_blank">
+                            <object data="/extension/site_inria/design/site_inria/images/social_networks/footer_linkedin.svg" type="image/svg+xml"></object>
+                        </a>
+                    </li>
+                                                                                                    <li>
+                        <a href="https://www.facebook.com/Inria.fr" target="_blank">
+                            <object data="/extension/site_inria/design/site_inria/images/social_networks/footer_facebook.svg" type="image/svg+xml"></object>
+                        </a>
+                    </li>
+                                                                                                    <li>
+                        <a href="https://www.youtube.com/user/InriaChannel" target="_blank">
+                            <object data="/extension/site_inria/design/site_inria/images/social_networks/footer_youtube.svg" type="image/svg+xml"></object>
+                        </a>
+                    </li>
+                                                                                                    <li>
+                        <a href="https://www.instagram.com/inria_officiel/" target="_blank">
+                            <object data="/extension/site_inria/design/site_inria/images/social_networks/footer_instagram.svg" type="image/svg+xml"></object>
+                        </a>
+                    </li>
+                                                                                                    <li>
+                        <a href="https://www.scoop.it/t/inria-dans-la-presse" target="_blank">
+                            <object data="/extension/site_inria/design/site_inria/images/social_networks/footer_scoopit.svg" type="image/svg+xml"></object>
+                        </a>
+                    </li>
+                                                                                                    <li>
+                        <a href="https://www.inria.fr/contact2/suivre" target="_blank">
+                            <object data="/extension/site_inria/design/site_inria/images/social_networks/footer_rss.svg" type="image/svg+xml"></object>
+                        </a>
+                    </li>
+                                        </ul>
+</div>
+</div>
+    
+<div class="footer">
+
+    <div class="overflow">
+    
+        <div class="shortcuts">
+            <div class="col">
+				
+            	        
+					<h2>Siège et centres de recherche Inria</h2>
+				
+				
+								
+				<ul>
+											<li>
+							<a href="/centre/siege">
+																	Siège
+															</a>
+						</li>
+											<li>
+							<a href="/centre/bordeaux">
+																	Bordeaux - Sud-Ouest
+															</a>
+						</li>
+											<li>
+							<a href="/centre/grenoble">
+																	Grenoble - Rhône-Alpes
+															</a>
+						</li>
+											<li>
+							<a href="/centre/lille">
+																	Lille - Nord Europe
+															</a>
+						</li>
+											<li>
+							<a href="/centre/nancy">
+																	Nancy - Grand Est
+															</a>
+						</li>
+											<li>
+							<a href="/centre/paris">
+																	Paris
+															</a>
+						</li>
+											<li>
+							<a href="/centre/rennes">
+																	Rennes - Bretagne Atlantique
+															</a>
+						</li>
+											<li>
+							<a href="/centre/saclay">
+																	Saclay - Île-de-France
+															</a>
+						</li>
+											<li>
+							<a href="/centre/sophia">
+																	Sophia Antipolis - Méditerranée
+															</a>
+						</li>
+											<li>
+							<a href="/centre/inria-chile">
+																	Inria Chile
+															</a>
+						</li>
+									</ul>
+				            </div>
+            
+             
+            <div class="col">
+              
+								
+				<h2>Accès direct</h2>
+				
+
+<ul>
+<li><a href="/europe-international/espace-europeen-de-la-recherche" title="Rubrique Europe" >Europe</a></li>
+<li><a href="/recherches/structures-de-recherche/rechercher-une-equipe" >Equipes de recherche</a></li>
+<li><a href="/informations-pratiques/marches-publics" >Marchés publics</a></li>
+<li><a href="https://www.inria.fr/informations-pratiques/depot-de-factures-en-ligne?pk_campaign=Fournisseurs" >Fournisseurs et prestataires</a></li>
+
+</ul>
+<br class="clear" />
+
+<ul>
+<li><a href="/recherches/structures-de-recherche/information-scientifique-et-technique/outils-de-l-ist" >Information et édition scientifiques</a></li>
+<li><a href="https://raweb.inria.fr/rapportsactivite/RA2018/index.html" title="raweb"  rel="external" >Rapports d'activité - RAweb</a></li>
+<li><a href="https://hal.inria.fr/"  rel="external" >Archive ouverte - HAL-Inria</a></li>
+<li><script type="text/javascript">uncrypt_emails['#13275934'] = new Array('114:','46:f','105:a','110:r','64:i','99:t','116:a','111:n','45:c','99:i','99:s','109:e');</script><a href="#13275934"  rel="external"  class=" uncrypt">Une question de science à poser ?</a></li>
+
+</ul>
+				
+				            </div>
+            
+             
+            <div class="col">
+               
+                				
+				<h2>Ressources</h2>
+				 
+                	                <ul>
+	                	
+	                		
+	                		
+	                																											
+	                		<li>
+	                			<a onclick="window.open(this.href); return false;" href="https://www.inria.fr/institut/inria-en-bref/charte-logo/charte-logo-inria/charte" title="Logo Inria">
+	                				Logo Inria
+	                				
+	                			</a>
+	                		</li>
+
+                            	                	
+	                		
+	                		
+	                																											
+	                		<li>
+	                			<a onclick="window.open(this.href); return false;" href="https://www.inria.fr/actualite/mediacenter" title="Espace presse">
+	                				Espace presse
+	                				
+	                			</a>
+	                		</li>
+
+                            	                	
+	                		
+	                		
+	                																											
+	                		<li>
+	                			<a onclick="window.open(this.href); return false;" href="https://phototheque.inria.fr/" title="Photothèque">
+	                				Photothèque
+	                				
+	                			</a>
+	                		</li>
+
+                            	                	
+	                		
+	                		
+	                																											
+	                		<li>
+	                			<a onclick="window.open(this.href); return false;" href="https://videotheque.inria.fr/" title="Vidéothèque">
+	                				Vidéothèque
+	                				
+	                			</a>
+	                		</li>
+
+                            	                	
+	                		
+	                		
+	                																											
+	                		<li>
+	                			<a onclick="window.open(this.href); return false;" href="https://www.canal-u.tv/producteurs/inria" title="Inria sur Canal-U">
+	                				Inria sur Canal-U
+	                				
+	                			</a>
+	                		</li>
+
+                            	                		                </ul>
+                            </div>
+
+            
+            <div class="col">
+
+                
+                                    
+                    <p class="logo">
+                        <a href="http://www.instituts-carnot.eu/fr" rel="external">
+                                                        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/admin/logos-pied-de-page/logo-institut-carnot/1864431-1-fre-FR/logo-institut-carnot_logo_footer.png" width="200" height="81"  alt="Le r&eacute;seau des instituts Carnot" title="Le r&eacute;seau des instituts Carnot" />
+            
+    
+    
+                                                        </a>
+                    </p>
+                                    
+                    <p class="logo">
+                        <a href="https://www.inria.fr/hrs4r" rel="external">
+                                                        
+
+    
+        
+    
+                    <img src="/var/inria/storage/images/medias/actualites/generales/images-chapo/hrs4r/1859634-5-fre-FR/hrs4r_logo_footer.png" width="200" height="150"  alt="" title="" />
+            
+    
+    
+                                                        </a>
+                    </p>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer satellites">
+    <div class="overflow">
+		
+						<ul>
+									<li><a href="/informations-pratiques/plan-du-site">Plan du site</a></li>
+									<li><a href="/contact2/nous-contacter">Nous contacter</a></li>
+									<li><a href="/informations-pratiques/marches-publics">Marchés publics</a></li>
+									<li><a href="/informations-pratiques/credits">Crédits</a></li>
+									<li><a href="/informations-pratiques/donnees-personnelles">Données personnelles</a></li>
+									<li><a href="/informations-pratiques/mentions-legales">Mentions légales</a></li>
+							</ul>
+    </div>
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+
+var _paq = _paq || [];
+
+// Code pour la mise en conformité avec la CNIL
+_paq.push([function() {
+    var self = this;
+    function getOriginalVisitorCookieTimeout() {
+        var now = new Date(),
+        nowTs = Math.round(now.getTime() / 1000),
+        visitorInfo = self.getVisitorInfo();
+        var createTs = parseInt(visitorInfo[2]);
+        var cookieTimeout = 33696000; // 13 mois en secondes
+        var originalTimeout = createTs + cookieTimeout - nowTs;
+        return originalTimeout;
+    }
+    this.setVisitorCookieTimeout( getOriginalVisitorCookieTimeout() );
+}]);
+
+// Fin Code
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    
+    var u="https://piwik.inria.fr/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 27]);
+    
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+
+</script>
+<noscript><p><img src="https://piwik.inria.fr/piwik.php?idsite=27" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+<script type="text/javascript">
+    if(jQuery.cookieBar && typeof window.CookiebarSettings == "object")
+        jQuery.cookieBar(window.CookiebarSettings);
+</script>
+
+<script type="text/javascript" src="/extension/site_inria/design/site_inria/javascript/youtube_init.js" ></script>
+
+</body>
+
+</html>
+

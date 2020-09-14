@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Mon, 14 Sep 2020 11:24:16 GMT
+Server: Apache
+X-Powered-By: eZ Publish
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Mon, 14 Sep 2020 11:24:16 GMT
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Served-by: www.inria.fr
+Content-language: fr-FR
+x-ez-node: 2
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
