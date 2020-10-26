@@ -1,0 +1,23 @@
+"""
+Created on 08-21-2019
+@author: Johann Dolivet
+
+Langage assembleur
+Utilisation du logiciel BSim
+https://jdolivet.github.io/LogicielsMIT/bsim/BSIM.html
+
+Execution machine de : 
+a = b + 3 * c
+"""
+
+ LD(c,R1) 		// Load c 	(depuis la RAM vers le registre R1)
+ SHLC(R1,1,R0)    	// 2 * c 	(R0 reçoit R1 que l'on a décalé de 1 bit vers la gauche)
+ ADD(R0,R1,R0)    	// + c		(R0 reçoit R0 + R1)	
+ LD(b,R1)		// Load b 	(depuis la RAM vers le registre R1)
+ ADD(R1,R0,R0)   	// 	 	(R0 reçoit R1 + R0)
+ ST(R0,a)		// Store a 	(depuis le registre R0 vers la RAM)
+ HALT()			// Fin
+   
+a: LONG(0) // On initialise a (qui va être écrasé!)
+b: LONG(4) // On initialise b
+c: LONG(6) // On initialise c
